@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.HBox?>
+<Pane fx:id="mainpane" xmlns:fx="http://javafx.com/fxml" fx:controller="client.controller.Controller">
+    <HBox fx:id="pane" >
+
+    </HBox>
+</Pane>
